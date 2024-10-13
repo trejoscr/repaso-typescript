@@ -1,8 +1,22 @@
-# Ejercicios introductorios a TypeScript
+# Introductory Exercises in TypeScript
 
-Para ejecutar el programa, sigan estos pasos:
+Here is a brief list of the fundamental topics applied in this project:
 
-1. Clonar o descargar el proyecto
-2. Ejecutar ```npm install``` en la carpeta del proyecto
-3. Cambiar en el ```main.ts```, el path del ejercicio que quieren ejecutar
-4. Correr ```npm run dev``` para ejecutar el programa
+### Introduction to TypeScript
+
+- Basic Types
+- Objects, Arrays, and Interfaces
+- Functions and Their Arguments
+- Destructuring Arrays and Objects
+- Imports and Exports
+- Classes, Constructors
+- Generic Types
+- Decorators
+- Optional Chaining
+
+To run the program, follow these steps:
+
+1. Clone or download the project.
+2. Run ```npm install``` in the project folder.
+3. Change the path in ```main.ts``` to the exercise you want to run.
+4. Run ```npm run dev``` to execute the program.
